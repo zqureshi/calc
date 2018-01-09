@@ -1,4 +1,4 @@
-# calc
+# calc [![Build Status](https://travis-ci.org/zqureshi/calc.svg?branch=master)](https://travis-ci.org/zqureshi/calc)
 
 Learn how to parse expressions using flex
 
