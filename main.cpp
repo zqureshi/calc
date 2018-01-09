@@ -1,6 +1,6 @@
 #include <iostream>
 
-extern int yylex(void);
+#include "calc.hpp"
 
 int main(int argc, char* argv[]) {
   yylex();

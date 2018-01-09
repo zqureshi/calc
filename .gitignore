@@ -46,3 +46,4 @@ CmakeCache.txt
 
 # Flex generated
 calc.cpp
+calc.hpp
